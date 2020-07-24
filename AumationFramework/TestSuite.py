@@ -1,7 +1,7 @@
 from tests.login import Test_Login
 import unittest
 
-tc1 = unittest.TestLoader().loadTestsFromModule(Test_Login.test_validlogin())
+tc1 = unittest.TestLoader().loadTestsFromTestCase(Test_Login.test_validlogin)
 tc2 = unittest.TestLoader().loadTestsFromTestCase(Test_Login.test_invalidlogin)
 tc3 = unittest.TestLoader().loadTestsFromTestCase(Test_Login.test_invalidlogin_multipledata)
 
