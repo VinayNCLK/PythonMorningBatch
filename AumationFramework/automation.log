@@ -1,0 +1,357 @@
+07/22/2020 09:34:33 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/22/2020 09:36:05 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/22/2020 09:37:53 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/22/2020 09:38:13 AM - LoginPO - ERROR: Unable to enter text on element with locator type id and locator value usernameMessage: element not visible
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/22/2020 09:38:13 AM - LoginPO - INFO: Entered text admin
+07/22/2020 09:38:41 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/22/2020 09:38:42 AM - LoginPO - ERROR: Unable to enter text on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/22/2020 09:38:42 AM - LoginPO - INFO: Entered password manager
+07/22/2020 09:38:42 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/22/2020 09:38:42 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/22/2020 09:38:42 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/22/2020 09:38:42 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/22/2020 09:38:42 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/22/2020 09:38:42 AM - LoginPO - INFO: Clicked on login button
+07/22/2020 09:39:27 AM - DashboardPO - ERROR: Unable to click on element with locator type xpath and locator value //a[text()='Logout']can only concatenate str (not "NoSuchElementException") to str
+07/23/2020 08:06:29 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:08:01 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:08:01 AM - LoginPO - ERROR: Unable to enter text on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:08:01 AM - LoginPO - INFO: Entered text admin
+07/23/2020 08:08:01 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:08:02 AM - LoginPO - ERROR: Unable to enter text on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:08:02 AM - LoginPO - INFO: Entered password manager
+07/23/2020 08:08:02 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/23/2020 08:08:02 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/23/2020 08:08:02 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/23/2020 08:08:02 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:08:03 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:08:03 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:08:03 AM - LoginPO - ERROR: Unable to obtain title of the page even after time out actiTIME -  Enter Time-Track
+07/23/2020 08:08:03 AM - LoginPO - INFO: Obtained url https://demo.actitime.com/login.do
+07/23/2020 08:08:03 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:08:21 AM - LoginPO - ERROR: Unable to enter text on element with locator type id and locator value usernameMessage: stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:08:21 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:08:21 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:08:21 AM - LoginPO - ERROR: Unable to enter text on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:08:21 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:17:05 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:17:58 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:17:59 AM - LoginPO - ERROR: Unable to clear on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:17:59 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:17:59 AM - LoginPO - INFO: Entered text admin
+07/23/2020 08:17:59 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:17:59 AM - LoginPO - ERROR: Unable to clear on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:17:59 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:17:59 AM - LoginPO - INFO: Entered password manager
+07/23/2020 08:18:00 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/23/2020 08:18:00 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/23/2020 08:18:00 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/23/2020 08:18:00 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:18:00 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:18:00 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:18:00 AM - LoginPO - ERROR: Unable to obtain title of the page even after time out actiTIME -  Enter Time-Track
+07/23/2020 08:18:00 AM - LoginPO - INFO: Obtained url https://demo.actitime.com/login.do
+07/23/2020 08:18:09 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:18:09 AM - LoginPO - ERROR: Unable to clear on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:18:09 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:18:09 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:18:09 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:18:09 AM - LoginPO - ERROR: Unable to clear on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:18:09 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:18:10 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:19:12 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:20:05 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:20:05 AM - LoginPO - ERROR: Unable to clear on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:05 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:20:06 AM - LoginPO - ERROR: Unable to enter text on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:06 AM - LoginPO - INFO: Entered text admin
+07/23/2020 08:20:06 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:20:06 AM - LoginPO - ERROR: Unable to clear on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:06 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:20:06 AM - LoginPO - ERROR: Unable to enter text on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:06 AM - LoginPO - INFO: Entered password manager
+07/23/2020 08:20:06 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/23/2020 08:20:07 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/23/2020 08:20:07 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/23/2020 08:20:07 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:20:07 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:20:07 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:20:07 AM - LoginPO - ERROR: Unable to obtain title of the page even after time out actiTIME -  Enter Time-Track
+07/23/2020 08:20:07 AM - LoginPO - INFO: Obtained url https://demo.actitime.com/login.do
+07/23/2020 08:20:15 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:20:15 AM - LoginPO - ERROR: Unable to clear on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:15 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:20:15 AM - LoginPO - ERROR: Unable to enter text on element with locator type id and locator value usernameMessage: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:15 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:20:15 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:20:15 AM - LoginPO - ERROR: Unable to clear on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:15 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:20:15 AM - LoginPO - ERROR: Unable to enter text on element with locator type xpath and locator value //input[@placeholder='Password']Message: unknown error: call function result missing 'value'
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.17134 x86_64)
+
+07/23/2020 08:20:15 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:22:09 AM - WebdriverFactory - INFO: FF browser launched successfully
+07/23/2020 08:23:56 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:23:57 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:23:57 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:23:57 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:23:57 AM - LoginPO - INFO: Entered text admin
+07/23/2020 08:23:58 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:23:58 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:23:58 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:23:59 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:23:59 AM - LoginPO - INFO: Entered password manager
+07/23/2020 08:23:59 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/23/2020 08:23:59 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/23/2020 08:23:59 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/23/2020 08:23:59 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:23:59 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:23:59 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:23:59 AM - LoginPO - ERROR: Unable to obtain title of the page even after time out actiTIME -  Enter Time-Track
+07/23/2020 08:24:00 AM - LoginPO - INFO: Obtained url https://demo.actitime.com/login.do
+07/23/2020 08:24:00 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:24:00 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:24:00 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:24:00 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:24:00 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:24:00 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:24:01 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:24:01 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:24:01 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:24:01 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:28:31 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:30:12 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:30:13 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:30:13 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:30:13 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:30:13 AM - LoginPO - INFO: Entered text admin
+07/23/2020 08:30:13 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:30:14 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:30:14 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:30:14 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:30:14 AM - LoginPO - INFO: Entered password manager
+07/23/2020 08:30:14 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/23/2020 08:30:14 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/23/2020 08:30:14 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/23/2020 08:30:14 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:30:15 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:30:15 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:30:15 AM - LoginPO - ERROR: Unable to obtain title of the page even after time out actiTIME -  Enter Time-Track
+07/23/2020 08:30:15 AM - LoginPO - INFO: Obtained url https://demo.actitime.com/login.do
+07/23/2020 08:30:15 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:30:15 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:30:15 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:30:16 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:30:16 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:30:16 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:30:16 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:30:16 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:30:16 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:30:16 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:32:21 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:33:38 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:33:39 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:33:39 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:33:40 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:33:40 AM - LoginPO - INFO: Entered text admin
+07/23/2020 08:33:41 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:33:42 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:33:42 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:33:43 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:33:43 AM - LoginPO - INFO: Entered password manager
+07/23/2020 08:33:43 AM - LoginPO - INFO: Element found with locator :id and locator value keepLoggedInCheckBox
+07/23/2020 08:33:43 AM - LoginPO - INFO: Clicked on element with locator type id and locator value keepLoggedInCheckBox
+07/23/2020 08:33:43 AM - LoginPO - INFO: Clicked on keep me logged in check box
+07/23/2020 08:33:43 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:33:44 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:33:44 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:33:59 AM - LoginPO - ERROR: Unable to obtain title of the page even after time out actiTIME -  Enter Time-Track
+07/23/2020 08:34:10 AM - LoginPO - INFO: Obtained url https://demo.actitime.com/user/submit_tt.do
+07/23/2020 08:34:10 AM - LoginPO - INFO: Successfully landed on the dashboard page
+07/23/2020 08:34:10 AM - DashboardPO - INFO: Element found with locator :xpath and locator value //a[text()='Logout']
+07/23/2020 08:34:16 AM - DashboardPO - INFO: Clicked on element with locator type xpath and locator value //a[text()='Logout']
+07/23/2020 08:34:17 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:34:17 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:34:17 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:34:18 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:34:18 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:34:18 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:34:18 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:34:18 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:34:19 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:34:19 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:47:49 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:49:44 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:49:44 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:49:44 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:49:45 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:49:45 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:49:45 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:49:45 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:49:45 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:49:46 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:49:46 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:49:46 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:49:46 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:49:46 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:51:51 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:53:10 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:53:11 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:53:11 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:53:11 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:53:11 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:53:11 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:53:11 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:53:11 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:53:12 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:53:12 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:53:12 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:53:13 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:53:13 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 08:55:15 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 08:56:34 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:56:35 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 08:56:35 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 08:56:35 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 08:56:35 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 08:56:35 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:56:36 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:56:36 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 08:56:36 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 08:56:36 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 08:56:36 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:56:37 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 08:56:37 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 09:05:15 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 09:06:35 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:06:35 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 09:06:35 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:06:35 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 09:06:35 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 09:06:36 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:06:36 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:06:36 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:06:36 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 09:06:36 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 09:06:36 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:06:37 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:06:37 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 09:10:42 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 09:12:27 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:12:28 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 09:12:28 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:12:28 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 09:12:28 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 09:12:29 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:12:29 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:12:29 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:12:29 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 09:12:29 AM - LoginPO - INFO: Entered password passwored1
+07/23/2020 09:12:30 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:12:30 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:12:30 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 09:13:00 AM - LoginPO - INFO: Element found with locator :xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:13:00 AM - LoginPO - INFO: Obtained text from element with locator type xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:13:00 AM - LoginPO - INFO: Error msg displayed properly Username or Password is invalid. Please try again.
+07/23/2020 09:45:02 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 09:47:22 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 09:48:36 AM - WebdriverFactory - INFO: Chrome browser launched successfully
+07/23/2020 09:48:55 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:48:55 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 09:48:55 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:48:56 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 09:48:56 AM - LoginPO - INFO: Entered text admin1
+07/23/2020 09:48:56 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:48:56 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:48:56 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:48:57 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 09:48:57 AM - LoginPO - INFO: Entered password Password1
+07/23/2020 09:48:57 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:48:57 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:48:57 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 09:49:27 AM - LoginPO - INFO: Element found with locator :xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:49:27 AM - LoginPO - INFO: Obtained text from element with locator type xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:49:27 AM - LoginPO - INFO: Error msg displayed properly Username or Password is invalid. Please try again.
+07/23/2020 09:49:28 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:49:29 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 09:49:29 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:49:29 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 09:49:29 AM - LoginPO - INFO: Entered text admin3
+07/23/2020 09:49:30 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:49:30 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:49:30 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:49:30 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 09:49:30 AM - LoginPO - INFO: Entered password Password2
+07/23/2020 09:49:31 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:49:31 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:49:31 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 09:50:01 AM - LoginPO - INFO: Element found with locator :xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:50:01 AM - LoginPO - INFO: Obtained text from element with locator type xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:50:01 AM - LoginPO - INFO: Error msg displayed properly Username or Password is invalid. Please try again.
+07/23/2020 09:50:01 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:50:02 AM - LoginPO - INFO: Cleared on element with locator type id and locator value username
+07/23/2020 09:50:02 AM - LoginPO - INFO: Element found with locator :id and locator value username
+07/23/2020 09:50:02 AM - LoginPO - INFO: Entered text on element with locator type idand locator value username
+07/23/2020 09:50:02 AM - LoginPO - INFO: Entered text admin3
+07/23/2020 09:50:02 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:50:02 AM - LoginPO - INFO: Cleared on element with locator type xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:50:02 AM - LoginPO - INFO: Element found with locator :xpath and locator value //input[@placeholder='Password']
+07/23/2020 09:50:03 AM - LoginPO - INFO: Entered text on element with locator type xpathand locator value //input[@placeholder='Password']
+07/23/2020 09:50:03 AM - LoginPO - INFO: Entered password Password3
+07/23/2020 09:50:03 AM - LoginPO - INFO: Element found with locator :xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:50:03 AM - LoginPO - INFO: Clicked on element with locator type xpath and locator value //div[contains(text(),'Login')]
+07/23/2020 09:50:03 AM - LoginPO - INFO: Clicked on login button
+07/23/2020 09:50:33 AM - LoginPO - INFO: Element found with locator :xpath and locator value //table[@id='ErrorsTable']//span
+07/23/2020 09:50:33 AM - LoginPO - INFO: Obtained text from element with locator type xpath and locator value //table[@id='ErrorsTable']//span
